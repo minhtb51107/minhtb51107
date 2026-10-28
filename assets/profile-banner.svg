@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="285" viewBox="0 0 1200 285" role="img" aria-labelledby="title desc">
+<title id="title">Tran Binh Minh — Software Engineering, Applied AI and Data</title>
+<desc id="desc">Dark blue and teal developer portfolio banner with technical motifs.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081321"/><stop offset=".5" stop-color="#0e2540"/><stop offset="1" stop-color="#0b1e34"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#3dd9cc"/><stop offset="1" stop-color="#6aa5ff"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#1c4160" stroke-width="1" opacity=".45"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="13"/></filter>
+</defs>
+<rect width="1200" height="285" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="285" rx="18" fill="url(#grid)"/>
+<circle cx="1030" cy="110" r="130" fill="#1d92ba" opacity=".18" filter="url(#glow)"/>
+<circle cx="1120" cy="220" r="105" fill="#4966ff" opacity=".14" filter="url(#glow)"/>
+<rect x="55" y="46" width="5" height="185" rx="2" fill="url(#accent)"/>
+<text x="82" y="86" fill="#3dd9cc" font-size="18" font-family="Arial, sans-serif" letter-spacing="4">BUILD · EXPERIMENT · EVALUATE</text>
+<text x="80" y="150" fill="#f3f9ff" font-size="51" font-weight="800" font-family="Arial, sans-serif" letter-spacing="1">TRAN BINH MINH</text>
+<text x="82" y="195" fill="#c7d8ee" font-size="24" font-family="Arial, sans-serif">Software Engineering  /  Applied AI  /  Data Systems</text>
+<text x="82" y="232" fill="#8db6da" font-size="16" font-family="monospace">From product backends to machine learning pipelines.</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="895" y="56" width="247" height="174" rx="15" stroke="#4eb4d7" opacity=".64" stroke-width="2"/>
+  <path d="M916 100h206" stroke="#2d607f" stroke-width="1"/>
+  <circle cx="923" cy="81" r="5" fill="#fa7970"/>
+  <circle cx="941" cy="81" r="5" fill="#f5b44a"/>
+  <circle cx="959" cy="81" r="5" fill="#56c596"/>
+  <path d="m921 134 13 11-13 11m41-23-8 24m27-24-13 11 13 11" stroke="#4dd4d2" stroke-width="3"/>
+  <path d="M1002 143h91M1002 162h73" stroke="#6daeff" stroke-width="7" opacity=".8"/>
+  <path d="M920 195h50m14 0h80m14 0h41" stroke="#3684aa" stroke-width="6" opacity=".9"/>
+  <circle cx="1101" cy="47" r="6" stroke="#3dd9cc" stroke-width="3"/>
+  <path d="M1098 47h-24l-20 18" stroke="#3dd9cc" opacity=".65"/>
+  <circle cx="871" cy="182" r="6" stroke="#6aa5ff" stroke-width="3"/>
+  <path d="M877 182h18" stroke="#6aa5ff" opacity=".6"/>
+</g>
+</svg>
